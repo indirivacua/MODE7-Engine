@@ -755,7 +755,7 @@ status open
 \align center
 \begin_inset Graphics
 	filename java_xy.jpg
-	scale 35
+	scale 50
 
 \end_inset
 
@@ -780,22 +780,6 @@ In JAVA, the screen coordinate
 \end_inset
 
 
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagebreak
 \end_layout
 
 \end_inset
