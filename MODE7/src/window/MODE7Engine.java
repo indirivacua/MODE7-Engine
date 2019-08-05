@@ -90,10 +90,10 @@ public class MODE7Engine extends JFrame { // The class itself is a JFrame
 			y_offset -= (float) (speed * Math.cos(Math.toRadians(angle)));
 		}
 		if (left) {
-			angle -= speed;
+			angle -= speed * 4;
 		}
 		if (right) {
-			angle += speed;
+			angle += speed * 4;
 		}
 	}
 
